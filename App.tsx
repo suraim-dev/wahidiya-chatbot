@@ -11,7 +11,7 @@ import { AdminPage } from './components/AdminPage';
 import { Preloader } from './components/Preloader';
 import { Footer } from './components/Footer';
 import { ComparisonTray } from './components/ComparisonTray';
-import { Chatbot } from './components/Chatbot';
+import Chatbot from './components/Chatbot';
 import { HERO_IMAGES } from './components/Hero';
 import { supabase } from './services/supabaseClient';
 import { Property } from './types';
